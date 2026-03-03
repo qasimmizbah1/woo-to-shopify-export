@@ -1,4 +1,4 @@
-# Woo to Shopify Export Pro
+# Woo to Shopify Export
 
 Woo to Shopify Export is a simple WordPress plugin that allows you to export WooCommerce products in Shopify-compatible CSV format.
 
