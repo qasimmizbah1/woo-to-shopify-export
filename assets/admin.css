@@ -1,0 +1,77 @@
+.wse-container {
+    max-width: 1200px;
+}
+
+.wse-header-card {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.wse-header-card h1 {
+    margin: 0;
+}
+
+.wse-actions-top .button {
+    margin-left: 10px;
+}
+
+.wse-search-bar {
+    margin-bottom: 15px;
+}
+
+#wse-search {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+.wse-table-card {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.wse-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.wse-table th {
+    text-align: left;
+    padding: 12px;
+    background: #f6f7f9;
+    font-weight: 600;
+}
+
+.wse-table td {
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+}
+
+.wse-table tr:hover {
+    background: #fafafa;
+}
+
+.wse-product-name {
+    font-weight: 500;
+}
+
+.wse-badge {
+    background: #e7f3ff;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.wse-out {
+    color: red;
+    font-weight: 600;
+}
